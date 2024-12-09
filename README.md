@@ -37,3 +37,9 @@ License:
 
 
 Let's take control of your finances together!
+![image](https://github.com/user-attachments/assets/0900c71c-84b2-4267-a7a0-1897f3a4e616)
+![image](https://github.com/user-attachments/assets/72287c8e-9c9a-430f-9c48-7b64751207ab)
+![image](https://github.com/user-attachments/assets/88b7bc5b-0f92-4f65-932e-c9e10fb6df4a)
+
+
+
