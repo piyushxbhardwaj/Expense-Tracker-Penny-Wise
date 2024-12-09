@@ -1,30 +1,53 @@
 Expense-Tracker-Penny-Wise
 
-A Comprehensive Expense Tracker
+A Comprehensive Expense Tracking Application
 
-This is a robust expense tracking application designed to help you manage your finances effectively. With a user-friendly interface and powerful features, you can easily:
+This is a full-stack expense tracking application built with Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript. It provides a user-friendly interface to manage your finances effectively.
 
 Key Features:
 
-Intuitive User Interface: A clean and intuitive design for effortless navigation.
-Expense Categorization: Organize expenses into categories like food, transportation, shopping, and more.
-Budgeting: Set monthly or yearly budgets and track your spending against them.
-Visualizations: Understand your spending habits with insightful charts and graphs.
-Recurring Expenses: Easily track recurring expenses like rent, subscriptions, and bills.
-Financial Insights: Gain valuable insights into your spending patterns and identify areas for savings.
-Secure Data Storage: Protect your financial information with robust security measures.
+User Authentication: Secure user authentication and authorization.
+Expense Tracking: Add, edit, and delete expenses with detailed categories and descriptions.
+Budgeting: Set monthly or yearly budgets and track progress.
+Financial Insights: Visualize spending patterns through charts and graphs.
+Recurring Expenses: Manage recurring expenses with automated tracking.
+Cloud Storage: Store and access financial data securely in the cloud.
+Technology Stack:
 
-
+Backend:
+Node.js
+Express.js
+MongoDB
+Frontend:
+HTML
+CSS
+JavaScript
+Getting Started:
 
 Clone the Repository:
+
 Bash
 
 git clone https://github.com/your-username/Expense-Tracker-Penny-Wise.git
-Install Dependencies: Follow the project's specific instructions to install necessary dependencies.
-Running the Application:
+Install Dependencies:
 
-Start the Server: Run the appropriate command to start the server.
-Access the Application: Open your web browser and navigate to the specified URL.
+Bash
+
+cd Expense-Tracker-Penny-Wise
+npm install
+Set Up Environment Variables:
+Create a .env file in the project root and add the following environment variables: 1    
+ 1. 
+github.com
+github.com
+
+MONGODB_URI=your_mongodb_connection_string
+PORT=your_port_number
+Start the Server:
+
+Bash
+
+npm start
 Contributing:
 
 We welcome contributions to improve this project. Feel free to:
@@ -34,6 +57,11 @@ Submit Pull Requests: Contribute code improvements or new features.
 Fork the Repository: Create your own version and customize it to your needs.
 License:
 
+This project is licensed under the [License Name] license. Please refer to the LICENSE file for more details.
+
+Contact:
+
+For any questions or support, please contact
 
 
 Let's take control of your finances together!
